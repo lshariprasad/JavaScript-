@@ -9,7 +9,7 @@ It acts as:
 - A revision guide for students
 - A reference repository for JavaScript fundamentals
 
----
+--
 
 ## Why is it useful?
 - Helps build **strong JavaScript foundations**
